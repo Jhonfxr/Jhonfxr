@@ -87,7 +87,7 @@ El proyecto forma parte de mi proceso de titulación y busca contribuir al apren
 
 ### Ingeniería de Sistemas
 - Finalización prevista: 2026.
-- Modalidad de titulación: Proyecto de Grado.
+- Modalidad de titulación: Examen de Grado.
 - Proyecto: DrillSim.
 
 ### Diplomado en Desarrollo de Software
